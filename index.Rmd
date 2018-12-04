@@ -1,0 +1,25 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/home.jpg" style="width:100%; margin-right: 18px" align="center">  
+
+## Introduction  
+This site is created for students and faculty members of UiTM Kedah as a guidelines to run analysis on PLS-SEM using SmartPLS 3 software.  The content of this website is courtesy shared by Dr Jacky Cheah (UPM) and Dr Francis Chuah (UUM). Credit should be given to them by citing their names in your publication.  
+
+| Introduction |  
+|:------------:|
+|<img src="images/New PLS Slides_Page_002.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">| 
+|<img src="images/New PLS Slides_Page_003.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_004.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">| 
+|<img src="images/New PLS Slides_Page_005.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+|<img src="images/New PLS Slides_Page_060.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+
+
+Any further question, please feel free to contact me at [k.a.mansor@hotmail.com](k.a.mansor@hotmail.com)

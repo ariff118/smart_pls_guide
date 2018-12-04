@@ -1,0 +1,23 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+### **Contact Me:**  
+
+<img src="images/profile1.jpeg" style="width:15%; height:35%; margin-right: 18px" align="left">  
+
+**Kamarul Ariffin Mansor**  
+**Senior Lecturer**  
+**Faculty of Computer and Mathematical Sciences**  
+**UiTM Kedah Branch Campus**  
+      
+I'd love to hear from you, so feel free to reach out:
+
+Universiti Teknologi MARA (UiTM) Kedah<br>
+Faculty of Computer and Mathematical Sciences<br>
+08400 Merbok<br>
+Kedah Darul Aman, MALAYSIA<br>
+ariff118@kedah.uitm.edu.my<br>
+
+Or connect with me on GitHub, Facebook, or Linkedin (links in top right).

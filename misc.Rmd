@@ -1,0 +1,173 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+  
+<link rel="stylesheet" href="styles.css" type="text/css">
+  
+<img src="images/home.jpg" style="width:100%; margin-right: 18px" align="center">  
+      
+# Miscelleneous Topic 
+
+| Overview |  
+|:---------|  
+|<img src="images/New PLS Slides_Page_122.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_123.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_124.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## 1. Mediation  
+
+| 1. Mediation |  
+|:-------------|  
+|<img src="images/New PLS Slides_Page_125.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_126.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_127.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_128.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_129.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_130.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_131.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_132.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_133.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_134.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+|<img src="images/New PLS Slides_Page_135.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 1  
+| Problem & Solution 1 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_136.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_137.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 2  
+| Problem & Solution 2 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_138.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_139.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 3  
+| Problem & Solution 3 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_140.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_141.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_142.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 4  
+| Problem & Solution 4 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_143.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_144.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_145.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 5  
+| Problem & Solution 5 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_146.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_147.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 6  
+| Problem & Solution 6 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_148.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_149.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_150.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_151.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_152.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_153.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_154.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_155.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## 2. Moderation  
+
+| 2. Moderation |  
+|:--------------|  
+|<img src="images/New PLS Slides_Page_156.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_157.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_158.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_159.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_160.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_161.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_162.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_163.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_164.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_165.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_166.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_167.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_168.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_169.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_170.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_171.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_172.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_173.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_174.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_175.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_176.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_177.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_178.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_179.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_180.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_181.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_182.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_183.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_184.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_185.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_186.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_187.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 1  
+| Problem & Solution 1 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_188.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_189.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_190.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 2  
+| Problem & Solution 2 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_191.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_192.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 3  
+| Problem & Solution 3 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_193.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_194.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 4  
+| Problem & Solution 4 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_195.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_196.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 5  
+| Problem & Solution 5 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_197.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_198.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 6  
+| Problem & Solution 6 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_199.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_200.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### Problem and Solution 7  
+| Problem & Solution 7 |  
+|:---------------------|  
+|<img src="images/New PLS Slides_Page_201.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_202.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_203.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## 3. Hierarchical Order Constructs  
+
+| 3. Hierarchical Order Constructs |  
+|:---------------------------------|  
+|<img src="images/New PLS Slides_Page_204.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_205.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_206.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_207.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_208.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_209.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_210.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+

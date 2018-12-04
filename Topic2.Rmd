@@ -1,0 +1,73 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+  
+<link rel="stylesheet" href="styles.css" type="text/css">
+  
+<img src="images/home.jpg" style="width:100%; margin-right: 18px" align="center">  
+
+  
+## Key Considerations Prior to Data Analysis  
+
+| Key Considerations Prior to Data Analysis |  
+|:-----------------------------------------:|  
+|<img src="images/New PLS Slides_Page_034.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_035.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_036.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 1. Sampling Techniques  
+
+| 1. Sampling Techniques |  
+|:-----------------------|  
+|<img src="images/New PLS Slides_Page_037.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_038.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_039.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_040.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_041.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_042.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 2. Sampling Size  
+
+| 2. Sampling Size |  
+|:-----------------|  
+|<img src="images/New PLS Slides_Page_043.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_044.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_045.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_046.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_047.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_048.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_049.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_050.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 3. Pre-Test & Pilot Test  
+
+| Pre-Test and Pilot Test |  
+|:------------------------|  
+|<img src="images/New PLS Slides_Page_051.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_052.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_053.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 4. Common Method Variance  
+
+| 4. Common Methid Variance |  
+|:--------------------------|  
+|<img src="images/New PLS Slides_Page_054.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_055.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_056.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 5. Reverse Coding Issues  
+
+| 5. Reverse Coding Issues |  
+|:-------------------------|  
+|<img src="images/New PLS Slides_Page_057.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_058.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 6. EFA vs CFA  
+
+| 6. EFA vs CFA |  
+|:--------------|  
+|<img src="images/New PLS Slides_Page_059.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_060.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|

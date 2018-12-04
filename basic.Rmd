@@ -1,0 +1,162 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+    toc_level: 5
+---
+  
+<link rel="stylesheet" href="styles.css" type="text/css">
+  
+<img src="images/home.jpg" style="width:100%; margin-right: 18px" align="center"> 
+
+# Basic PLS-SEM Modeling  
+
+| Basic Path Modeling |  
+|:-------------------:|  
+|<img src="images/New PLS Slides_Page_061.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+# A. Measurement Model Assessment 
+
+| Measurement Model Assessment |  
+|:----------------------------:|  
+|<img src="images/New PLS Slides_Page_062.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Assessment of Measurement Model  
+
+| Assessment of Measurement Model |  
+|:-------------------------------:|  
+|<img src="images/New PLS Slides_Page_063.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Reflective Model assessment  
+
+| Reflective Model assessment |  
+|:---------------------------:|  
+|<img src="images/New PLS Slides_Page_064.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+### 1. Internal Consistency  
+
+| Internal Consistency |  
+|:--------------------:|  
+|<img src="images/New PLS Slides_Page_065.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+|<img src="images/New PLS Slides_Page_066.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_067.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_068.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+### 2. Convergent Validity  
+
+| Convergent Validity |  
+|:-------------------:|  
+|<img src="images/New PLS Slides_Page_070.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_071.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_072.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_073.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+### 3. Discriminant Validity  
+
+| Discriminant Validity |  
+|:---------------------:|  
+|<img src="images/New PLS Slides_Page_075.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_076.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_077.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_078.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_079.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_080.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_081.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_082.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_083.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_084.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_085.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_086.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+## Formative Model Assessment  
+
+| Formative Model Assessment |  
+|:--------------------------:|  
+|<img src="images/New PLS Slides_Page_087.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 1. Convergent Validity  
+
+| Convergent Validity |  
+|:-------------------:|  
+|<img src="images/New PLS Slides_Page_088.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+### 2. Colinearity  
+
+| Colinearity |  
+|:-----------:|  
+|<img src="images/New PLS Slides_Page_090.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 3. Weight and Significant  
+
+| Weight and Significant |  
+|:----------------------:|  
+|<img src="images/New PLS Slides_Page_092.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+
+# B. Structural Model Assessment  
+
+|                             |  
+|:---------------------------:|  
+|<img src="images/New PLS Slides_Page_093.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## **Assessment of Normality**  
+
+| Assessment of Normality |  
+|:------------------------|  
+|<img src="images/New PLS Slides_Page_094.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_095.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_096.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_097.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## 5 Items to Assess?  
+
+| 5 items to assess? |  
+|:----------------|  
+|<img src="images/New PLS Slides_Page_098.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 1 Assessment of Colinearity  
+| 1. Assessment of Colinearity |  
+|:-----------------------------|  
+|<img src="images/New PLS Slides_Page_099.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_100.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_101.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_102.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_103.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 2. Assessment of Path Coefficient  
+| 2. Assessment of Path Coefficient |  
+|:----------------------------------|  
+|<img src="images/New PLS Slides_Page_104.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_105.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_106.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_107.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_108.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_109.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_110.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_111.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_112.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_113.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+| Assessment of $R^2$ and Effect Size $f^2$ |  
+|:------------------------------------------|  
+|<img src="images/New PLS Slides_Page_114.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 3. Assessment of $R^2$  
+| 3. Assessment of $R^2$ and Adjusted $R^2$ |  
+|:------------------------------------------|
+|<img src="images/New PLS Slides_Page_115.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_116.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 4. Assessment of $f^2$  
+| 4 Assessment of Effect Size $f^2$ |  
+|:----------------------------------|  
+|<img src="images/New PLS Slides_Page_117.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+### 5. Assessment of $Q^2$  
+| 5. Assessment of $Q^2$ |  
+|:-----------------------|  
+|<img src="images/New PLS Slides_Page_118.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_119.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_120.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_121.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+

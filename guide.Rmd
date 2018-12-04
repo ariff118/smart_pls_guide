@@ -1,0 +1,98 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">  
+
+# Discussion Note  
+
+## 1.	Preparation  
+
+  i) Missing values in SPSS need to be addressed.  
+  ii) Save SPSS file as csv format.  
+  iii) Remove variables/data which are not needed, such as respondent profile in csv file.  
+
+## 2.	Getting Started with PLS  
+
+  i) Create new project  
+  ii) Double-click to import data.  
+  iii) Draw diagram on workplace.  
+
+## 3.	Path Modeling (Reflective indicators)  
+
+  i) Assessment of measurement model (PLS algorithm)  
+      a.	Convergent validity (Outer loadings, AVE and CR)  
+      b.	Discriminant validity (Fornell & Larcker and HTMT)  
+  ii) Assessment of structural model  
+      a.	Assessment of collinearity (VIF) (PLS algorithm)  
+      b.	Assessment of path coefficient (Bootstrapping)  
+      c.	Coefficient of Determination (R square) (PLS algorithm)  
+      d.	Effect size (f square) (PLS algorithm)  
+      e.	Predictive relevance (Q square) (Blindfolding)  
+
+## 4.	Mediation Analysis  
+  i) Assessment of measurement model (PLS algorithm)  
+      a.	Convergent validity (Outer loadings, AVE and CR)  
+      b.	Discriminant validity (Fornell & Larcker and HTMT)  
+  ii)	Assessment of structural model  
+      a.	Assessment of collinearity (VIF) (PLS algorithm)  
+      b.	Assessment of path coefficient (Bootstrapping)  
+      c.	Assessment of indirect effect: (Bootstrapping 2-tailed)  
+      d.	Coefficient of Determination (R square) (PLS algorithm)  
+      e.	Effect size (f square) (PLS algorithm)  
+      f.	Predictive relevance (Q square) (Blindfolding)  
+
+## 5.	Moderator Analysis (categorical data, which requires dummy coding)  
+
+  i) Draw diagram, include moderator as IV  
+  ii) Assessment of measurement model (PLS algorithm)  
+        a.	Convergent validity (Outer loadings, AVE and CR)  
+        b.	Discriminant validity (Fornell & Larcker and HTMT)  
+        c.	Assessment of R square and f square before moderation  
+  iii) Add moderating effect, identify moderator and IV, select product indicator and unstandardized product term  
+  iv) Assessment of structural model  
+        a.	Assessment of collinearity (VIF) (PLS algorithm)  
+        b.	Assessment of path coefficient (Bootstrapping)  
+        c.	Assessment of path coefficient of moderation (Bootstrapping)  
+        d.	Coefficient of Determination (R square) (PLS algorithm)  
+        e.	Effect size (f square) (PLS algorithm)  
+ 
+## 6.	Moderator Analysis (continuous data)  
+
+  i) Draw diagram, include moderator as IV  
+  ii) Assessment of measurement model (PLS algorithm)  
+        a.	Convergent validity (Outer loadings, AVE and CR)  
+        b.	Discriminant validity (Fornell & Larcker and HTMT)  
+        c.	Assessment of R square and f square before moderation  
+  iii) Add moderating effect, identify moderator and IV, select product indicator and mean centered product term  
+  iv) Assessment of structural model  
+        a.	Assessment of collinearity (VIF) (PLS algorithm)  
+        b.	Assessment of path coefficient (Bootstrapping)  
+        c.	Assessment of path coefficient of moderation (Bootstrapping)  
+        d.	Coefficient of Determination (R square) (PLS algorithm)  
+        e.	Effect size (f square) (PLS algorithm)  
+
+## 7.	Analysis with HOC Independent Variables (Type II) – Two Stage Approach  
+
+  i) Draw links between the first order constructs and the endogenous variables.  
+  ii) Run PLS Algorithm and assess the measurement model  
+  iii) Assessment of measurement model (PLS algorithm)  
+        a.	Convergent validity of first order constructs and endogenous variables (Outer loadings, AVEand CR)  
+        b.	Discriminant validity among first order constructs and endogenous variables (Fornell & Larcker and HTMT)  
+  iv) Once measurement model is satisfactory, obtain “Latent Variable Score” from algorithm output.  
+  v) Copy and paste the “Latent Variable Score” into new excel sheet and save as .csv file  
+  vi) Import the Latent Variable Score csv file into SmartPLS, then develop a new path model using the new dataset  
+  vii) Load the first order construct (now indicator) as indicator for second order construct and  
+        a.	Assessment of weight significance of the indicators (first order) on second order construct (Bootstrapping)  
+        b.	Assess collinearity for first order formative indicators (VIF)  
+        c.	Conduct redundancy analysis between the new construct with formative indicators and a single global item constructs  
+  viii)	Link the new construct with the original endogenous variables  
+  ix) Assessment of structural model  
+      a.	Assessment of collinearity (VIF) (PLS algorithm)  
+      b.	Assessment of path coefficient (Bootstrapping)  
+      c.	Coefficient of Determination (R square) (PLS algorithm)  
+      d.	Effect size (f square) (PLS algorithm)  
+      e.	Predictive relevance (Q square) (Blindfolding)  

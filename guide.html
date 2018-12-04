@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>guide.utf8.md</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 41px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+
+.section h2 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h3 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h4 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h5 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h6 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">PLS-SEM with SmartPLS 3</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="contents.html">Contents</a>
+</li>
+<li>
+  <a href="Topic1.html">Topic 1</a>
+</li>
+<li>
+  <a href="Topic2.html">Topic 2</a>
+</li>
+<li>
+  <a href="basic.html">Basic PLS Modeling</a>
+</li>
+<li>
+  <a href="misc.html">Miscelleneous Topics</a>
+</li>
+<li>
+  <a href="guide.html">Guidelines</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.facebook.com/kamarul.ariffin.9235">
+    <span class="fa fa-facebook fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="discussion-note" class="section level1">
+<h1>Discussion Note</h1>
+<div id="preparation" class="section level2">
+<h2>1. Preparation</h2>
+<ol style="list-style-type: lower-roman">
+<li>Missing values in SPSS need to be addressed.<br />
+</li>
+<li>Save SPSS file as csv format.<br />
+</li>
+<li>Remove variables/data which are not needed, such as respondent profile in csv file.</li>
+</ol>
+</div>
+<div id="getting-started-with-pls" class="section level2">
+<h2>2. Getting Started with PLS</h2>
+<ol style="list-style-type: lower-roman">
+<li>Create new project<br />
+</li>
+<li>Double-click to import data.<br />
+</li>
+<li>Draw diagram on workplace.</li>
+</ol>
+</div>
+<div id="path-modeling-reflective-indicators" class="section level2">
+<h2>3. Path Modeling (Reflective indicators)</h2>
+<ol style="list-style-type: lower-roman">
+<li>Assessment of measurement model (PLS algorithm)
+<ol style="list-style-type: lower-alpha">
+<li>Convergent validity (Outer loadings, AVE and CR)<br />
+</li>
+<li>Discriminant validity (Fornell &amp; Larcker and HTMT)<br />
+</li>
+</ol></li>
+<li>Assessment of structural model
+<ol style="list-style-type: lower-alpha">
+<li>Assessment of collinearity (VIF) (PLS algorithm)<br />
+</li>
+<li>Assessment of path coefficient (Bootstrapping)<br />
+</li>
+<li>Coefficient of Determination (R square) (PLS algorithm)<br />
+</li>
+<li>Effect size (f square) (PLS algorithm)<br />
+</li>
+<li>Predictive relevance (Q square) (Blindfolding)</li>
+</ol></li>
+</ol>
+</div>
+<div id="mediation-analysis" class="section level2">
+<h2>4. Mediation Analysis</h2>
+<ol style="list-style-type: lower-roman">
+<li>Assessment of measurement model (PLS algorithm)
+<ol style="list-style-type: lower-alpha">
+<li>Convergent validity (Outer loadings, AVE and CR)<br />
+</li>
+<li>Discriminant validity (Fornell &amp; Larcker and HTMT)<br />
+</li>
+</ol></li>
+<li>Assessment of structural model<br />
+a. Assessment of collinearity (VIF) (PLS algorithm)<br />
+b. Assessment of path coefficient (Bootstrapping)<br />
+c. Assessment of indirect effect: (Bootstrapping 2-tailed)<br />
+d. Coefficient of Determination (R square) (PLS algorithm)<br />
+e. Effect size (f square) (PLS algorithm)<br />
+f. Predictive relevance (Q square) (Blindfolding)</li>
+</ol>
+</div>
+<div id="moderator-analysis-categorical-data-which-requires-dummy-coding" class="section level2">
+<h2>5. Moderator Analysis (categorical data, which requires dummy coding)</h2>
+<ol style="list-style-type: lower-roman">
+<li>Draw diagram, include moderator as IV<br />
+</li>
+<li>Assessment of measurement model (PLS algorithm)
+<ol style="list-style-type: lower-alpha">
+<li>Convergent validity (Outer loadings, AVE and CR)<br />
+</li>
+<li>Discriminant validity (Fornell &amp; Larcker and HTMT)<br />
+</li>
+<li>Assessment of R square and f square before moderation<br />
+</li>
+</ol></li>
+<li>Add moderating effect, identify moderator and IV, select product indicator and unstandardized product term<br />
+</li>
+<li>Assessment of structural model
+<ol style="list-style-type: lower-alpha">
+<li>Assessment of collinearity (VIF) (PLS algorithm)<br />
+</li>
+<li>Assessment of path coefficient (Bootstrapping)<br />
+</li>
+<li>Assessment of path coefficient of moderation (Bootstrapping)<br />
+</li>
+<li>Coefficient of Determination (R square) (PLS algorithm)<br />
+</li>
+<li>Effect size (f square) (PLS algorithm)</li>
+</ol></li>
+</ol>
+</div>
+<div id="moderator-analysis-continuous-data" class="section level2">
+<h2>6. Moderator Analysis (continuous data)</h2>
+<ol style="list-style-type: lower-roman">
+<li>Draw diagram, include moderator as IV<br />
+</li>
+<li>Assessment of measurement model (PLS algorithm)
+<ol style="list-style-type: lower-alpha">
+<li>Convergent validity (Outer loadings, AVE and CR)<br />
+</li>
+<li>Discriminant validity (Fornell &amp; Larcker and HTMT)<br />
+</li>
+<li>Assessment of R square and f square before moderation<br />
+</li>
+</ol></li>
+<li>Add moderating effect, identify moderator and IV, select product indicator and mean centered product term<br />
+</li>
+<li>Assessment of structural model
+<ol style="list-style-type: lower-alpha">
+<li>Assessment of collinearity (VIF) (PLS algorithm)<br />
+</li>
+<li>Assessment of path coefficient (Bootstrapping)<br />
+</li>
+<li>Assessment of path coefficient of moderation (Bootstrapping)<br />
+</li>
+<li>Coefficient of Determination (R square) (PLS algorithm)<br />
+</li>
+<li>Effect size (f square) (PLS algorithm)</li>
+</ol></li>
+</ol>
+</div>
+<div id="analysis-with-hoc-independent-variables-type-ii-two-stage-approach" class="section level2">
+<h2>7. Analysis with HOC Independent Variables (Type II) – Two Stage Approach</h2>
+<ol style="list-style-type: lower-roman">
+<li>Draw links between the first order constructs and the endogenous variables.<br />
+</li>
+<li>Run PLS Algorithm and assess the measurement model<br />
+</li>
+<li>Assessment of measurement model (PLS algorithm)
+<ol style="list-style-type: lower-alpha">
+<li>Convergent validity of first order constructs and endogenous variables (Outer loadings, AVEand CR)<br />
+</li>
+<li>Discriminant validity among first order constructs and endogenous variables (Fornell &amp; Larcker and HTMT)<br />
+</li>
+</ol></li>
+<li>Once measurement model is satisfactory, obtain “Latent Variable Score” from algorithm output.<br />
+</li>
+<li>Copy and paste the “Latent Variable Score” into new excel sheet and save as .csv file<br />
+</li>
+<li>Import the Latent Variable Score csv file into SmartPLS, then develop a new path model using the new dataset<br />
+</li>
+<li>Load the first order construct (now indicator) as indicator for second order construct and
+<ol style="list-style-type: lower-alpha">
+<li>Assessment of weight significance of the indicators (first order) on second order construct (Bootstrapping)<br />
+</li>
+<li>Assess collinearity for first order formative indicators (VIF)<br />
+</li>
+<li>Conduct redundancy analysis between the new construct with formative indicators and a single global item constructs<br />
+</li>
+</ol></li>
+<li>Link the new construct with the original endogenous variables<br />
+</li>
+<li>Assessment of structural model
+<ol style="list-style-type: lower-alpha">
+<li>Assessment of collinearity (VIF) (PLS algorithm)<br />
+</li>
+<li>Assessment of path coefficient (Bootstrapping)<br />
+</li>
+<li>Coefficient of Determination (R square) (PLS algorithm)<br />
+</li>
+<li>Effect size (f square) (PLS algorithm)<br />
+</li>
+<li>Predictive relevance (Q square) (Blindfolding)</li>
+</ol></li>
+</ol>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

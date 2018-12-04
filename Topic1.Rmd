@@ -1,0 +1,77 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+  
+<link rel="stylesheet" href="styles.css" type="text/css">
+  
+<img src="images/home.jpg" style="width:100%; margin-right: 18px" align="center">  
+  
+## Fundamentals of SEM 
+
+| Fundamentals of SEM |  
+|:-------------------:|
+|<img src="images/New PLS Slides_Page_007.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_008.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_009.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_010.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_011.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_012.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Exogenous and Endogenous Variables  
+
+| Exogeneous and Endogenous Variables |
+|:-----------------------------------:|
+|<img src="images/New PLS Slides_Page_013.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Latent and Observed Variables  
+
+| Latent and Observed Variables |  
+|:-----------------------------:|  
+|<img src="images/New PLS Slides_Page_014.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Measurement Model  
+
+| Measurement MOdel |  
+|:-----------------:|  
+|<img src="images/New PLS Slides_Page_015.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_016.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Structural Model  
+
+| Structural Model |  
+|:----------------:|  
+|<img src="images/New PLS Slides_Page_017.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_018.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Characteristics of Measurement Model  
+
+| Characteristics of Measurement Model |  
+|:------------------------------------:|  
+|<img src="images/New PLS Slides_Page_019.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_020.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_021.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_022.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Operationalization of Constructs  
+
+| Operationalization of Constructs |  
+|:--------------------------------:|  
+|<img src="images/New PLS Slides_Page_023.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_024.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
+## Model Misspecification  
+
+| Model Misspecification |  
+|:----------------------:|  
+|<img src="images/New PLS Slides_Page_025.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_026.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_027.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_028.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_029.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_030.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_031.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_032.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_033.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
