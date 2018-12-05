@@ -21,6 +21,14 @@ This site is created for students and faculty members of UiTM Kedah as a guideli
 |<img src="images/New PLS Slides_Page_005.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
 |<img src="images/New PLS Slides_Page_060.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
 
+## Sample Write Up {.tabset}
 
+### Measurement Model
+
+(This section will provide some sample on how to write your result in proper order.)
+
+### Structural Model
+
+(This section will provide some sample on how to write your result in proper order.)
 
 Any further question, please feel free to contact me at [k.a.mansor@hotmail.com](k.a.mansor@hotmail.com)
