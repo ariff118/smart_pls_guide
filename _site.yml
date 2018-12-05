@@ -1,4 +1,5 @@
 name: "PLS-SEM with SmartPLS 3"
+title: "PLS-SEM Guide Using SmartPLS 3"
 output_dir: "."
 navbar:
   title: "PLS-SEM with SmartPLS 3"
