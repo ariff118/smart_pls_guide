@@ -13,7 +13,7 @@ navbar:
       href: Topic2.html
     - text: "Basic PLS Modeling"
       href: basic.html
-    - text: "Miscelleneous Topics"
+    - text: "Miscellaneous Topics"
       href: misc.html
 
   right:
