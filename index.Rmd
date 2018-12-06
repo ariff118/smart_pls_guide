@@ -13,7 +13,7 @@ output:
 ## Introduction  
 This site is created for students and faculty members of UiTM Kedah as a guidelines to run analysis on PLS-SEM using SmartPLS 3 software.  The content of this website is courtesy shared by Dr Jacky Cheah (UPM) and Dr Francis Chuah (UUM). Credit should be given to them by citing their names in your publication.  
   
-Any further question, please feel free to contact me at [k.a.mansor@hotmail.com](k.a.mansor@hotmail.com)  
+Any further question, please feel free to contact me at k.a.mansor@hotmail.com  
 
 
 | Introduction |  
