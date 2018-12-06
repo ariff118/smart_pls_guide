@@ -1,9 +1,8 @@
 ---
+title: "Contact Me:"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
-
-### **Contact Me:**  
 
 <img src="images/profile1.jpeg" style="width:15%; height:35%; margin-right: 18px" align="left">  
 
@@ -20,4 +19,4 @@ Faculty of Computer and Mathematical Sciences<br>
 Kedah Darul Aman, MALAYSIA<br>
 ariff118@kedah.uitm.edu.my<br>
 
-Or connect with me on GitHub, Facebook, or Linkedin (links in top right).
+Or connect with me on Facebook or WhatsApp (links in top right).

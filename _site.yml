@@ -1,9 +1,10 @@
 name: "PLS-SEM with SmartPLS 3"
-title: "PLS-SEM Guide Using SmartPLS 3"
 output_dir: "."
 navbar:
   title: "PLS-SEM with SmartPLS 3"
   left:
+    - text: "Guidelines"
+      href: guide.html
     - text: "Contents"
       href: contents.html
     - text: "Topic 1"
@@ -14,15 +15,15 @@ navbar:
       href: basic.html
     - text: "Miscelleneous Topics"
       href: misc.html
-    - text: "Guidelines"
-      href: guide.html
+
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-facebook fa-lg
       href: https://www.facebook.com/kamarul.ariffin.9235
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/kamarul-ariffin-mansor-254b9ba7/
+    - icon: fa-whatsapp fa-lg
+      href: https://api.whatsapp.com/send?phone=60124336901&text=how%20can%20I%20help%20you?
+      
 output:
   html_document:
     theme: simplex

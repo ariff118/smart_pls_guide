@@ -1,5 +1,5 @@
 ---
-title: "SEM-PLS Guide Using SmartPLS 3"
+title: "PLS-SEM with SmartPLS 3"
 output:
   html_document: 
     toc: true
@@ -12,6 +12,9 @@ output:
 
 ## Introduction  
 This site is created for students and faculty members of UiTM Kedah as a guidelines to run analysis on PLS-SEM using SmartPLS 3 software.  The content of this website is courtesy shared by Dr Jacky Cheah (UPM) and Dr Francis Chuah (UUM). Credit should be given to them by citing their names in your publication.  
+  
+Any further question, please feel free to contact me at [k.a.mansor@hotmail.com](k.a.mansor@hotmail.com)  
+
 
 | Introduction |  
 |:------------:|
@@ -19,16 +22,16 @@ This site is created for students and faculty members of UiTM Kedah as a guideli
 |<img src="images/New PLS Slides_Page_003.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
 |<img src="images/New PLS Slides_Page_004.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">| 
 |<img src="images/New PLS Slides_Page_005.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
-|<img src="images/New PLS Slides_Page_060.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|
+|<img src="images/New PLS Slides_Page_060.jpg" style="width:100%; height: 50%; border:10px solid; margin-right: 18px" align="left">|  
+
 
 ## Sample Write Up {.tabset}
 
-### Measurement Model
+### Measurement Model {.tabset}
 
-(This section will provide some sample on how to write your result in proper order.)
+Under Construction
 
 ### Structural Model
 
-(This section will provide some sample on how to write your result in proper order.)
+Under Construction
 
-Any further question, please feel free to contact me at [k.a.mansor@hotmail.com](k.a.mansor@hotmail.com)
