@@ -1,5 +1,5 @@
 ---
-title: "Miscelleneous Topic"
+title: "Miscellaneous Topic"
 output:
   html_document: 
     toc: true
